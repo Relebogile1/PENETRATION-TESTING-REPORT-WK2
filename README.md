@@ -337,8 +337,6 @@ Command: "wafw00f networkwalks.com"
 
 Command: "dnsrecon -d networkwalks.com"
 
-<!-- Add your DNSRecon screenshot here -->8.7 Zenmap Local Ping Scan Output
-
 Target: "192.168.1.0/24"
 
 Result: Four live hosts discovered.
@@ -353,7 +351,7 @@ Week| 02
 Task| W2-PM-FINAL
 Batch| B084
 Repository| GitHub
-Status| Phases 1 and 2 completed; Phases 3–5 in progress
+Status| Phases 1 and 5 completed; Phases 2–4 in progress
 
 ---
 
